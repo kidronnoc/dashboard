@@ -1,0 +1,25 @@
+{
+  "unpublishedCollection": {
+    "name": "JSObject1",
+    "pageId": "ReviewReply Demo Dashboard",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "body": "export default\n\ncount: Stars_chart.response.data.filter(dp => dp.rating === 1).length\n",
+    "variables": [
+      {
+        "name": "myVar1",
+        "value": "[]"
+      },
+      {
+        "name": "myVar2",
+        "value": "{}"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "ReviewReply Demo Dashboard_JSObject1",
+  "deleted": false,
+  "gitSyncId": "6390f5b2e77ccb59f687d94f_63bd185e96c9042751e5894d"
+}
